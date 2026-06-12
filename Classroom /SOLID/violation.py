@@ -17,11 +17,10 @@ def calculate_price(price,customer_type):
     elif customer_type == "vip":
         return price * 0.5
     
-''' Consider, a new coustomer type: "first_timer" is added, 
+''' 
+Consider, a new coustomer type: "first_timer" is added, 
 we need to add another elif clause and edit the same function again, which violates OCP.
-'''
 
-'''
     elif customer_type == "first_timer":
         return price 
 '''
