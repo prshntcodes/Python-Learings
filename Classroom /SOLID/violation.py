@@ -1,9 +1,11 @@
 """
 This is an example of Bad design that violates OCP.
 We alter a core class every time new requirements are introduced.
-Here is a discount system; every time you add a new customer_type shows up, we need to edit the same function.
+Here is a discount system; every time you add a new customer_type shows up, 
+we need to edit the same function.
 
-Note: Use of if-else statements is a common sign of OCP violation, as it often indicates that the code is not designed to accommodate new functionality without modification.
+Note: Use of if-else statements is a common sign of OCP violation, 
+as it often indicates that the code is not designed to accommodate new functionality without modification.
 """
 
 def calculate_price(price,customer_type):
