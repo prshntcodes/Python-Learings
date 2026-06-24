@@ -1,0 +1,2 @@
+--This is a new line I have added in Write mode.--
+ A new line is appended, without erasing previous content of the file.
