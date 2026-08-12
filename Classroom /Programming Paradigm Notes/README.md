@@ -23,13 +23,15 @@ There are many programming paradigms, but the common ones are:
 ```markdown
 Q.) Why multiple paradigms exist, why one paradigm is not enough?
 
--> Different problems require different ways of thinking and different approaches to solve them. No single paradigm is perfect for every problem. Some paradigm / style are:
+-> Different problems require different ways of thinking and different approaches to solve them.
+No single paradigm is perfect for every problem. Some paradigm / style are:
 
     a. Very clear but less flexible.
     b. Very fast but hard to maintain.
     c. Very expressive but slow or hard to optimize, etc.
 
-Thus, different problems require different styles, so multiple paradigms exist. Programmers can choose the most suitable paradigm for a specific problem or even combine paradigms to leverage their strengths.
+Thus, different problems require different styles, so multiple paradigms exist.
+Programmers can choose the most suitable paradigm for a specific problem or even combine paradigms to leverage their strengths.
 ```
 >These paradigms differ mainy in :  
     **a. How they view a problem    
